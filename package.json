@@ -1,0 +1,11 @@
+{
+  "name": "welp",
+  "version": "0.0.0",
+  "description": "welp",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Patrick McCarthy",
+  "license": "ISC"
+}
